@@ -1,0 +1,73 @@
+.parallax {
+  /* The image used */
+  background-image: url("https://static.pexels.com/photos/167964/pexels-photo-167964.jpeg");
+  /* Set a specific height */
+  height: 500px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navposition {
+  height: 50px;
+  width: auto;
+  top: 275px;
+}
+
+.aboutusText {
+top: 315px;
+
+}
+.inner-text{
+top: 50px;
+display: inline-block;
+
+}
+
+
+#carousel-example-generic {
+height: 100px;
+width: auto;
+top: 500px;
+}
+
+.carousel-container {
+width:auto;
+height: 300px;
+}
+
+.services {
+height: 250px;
+width:auto;
+top: 300px;
+
+}
+
+.services-text{
+  display: inline-block;
+  top: 310px
+}
+.contact-us {
+height: 100px;
+width: auto;
+top: 1600px;
+
+}
+
+#social-media-container {
+  width: 25%;
+  position: relative;
+  top: 1700px;
+}
+/* positions images of the contact sections social media */
+
+
+.footer {
+  top: 1000px;
+height: auto;
+}
+.footer-text {
+  font-size: 10px;
+}
